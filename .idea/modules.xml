@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Core Java Practice.iml" filepath="$PROJECT_DIR$/Core Java Practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP-Concepts/OOP-Concepts.iml" filepath="$PROJECT_DIR$/OOP-Concepts/OOP-Concepts.iml" />
     </modules>
   </component>
 </project>
