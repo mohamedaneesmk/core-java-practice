@@ -7,7 +7,7 @@ public class DataTypesDemo {
         short s = 200;
         int i = 1000;
         long l = 100000L;
-
+ 
         float f = 10.5f;
         double d = 20.99;
 
