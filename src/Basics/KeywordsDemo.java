@@ -2,7 +2,7 @@ package basics;
 
 public class KeywordsDemo {
 
-    static int staticVar = 10;
+    static int staticVar = 10; 
 
     public static void main(String[] args) {
 
