@@ -5,7 +5,7 @@ class MyThread extends Thread {
         System.out.println("Thread running...");
     }
 }
-public class ThreadClass {
+public class ThreadClass { 
     public static void main(String[] args) {
         MyThread t = new MyThread();
         t.start();
