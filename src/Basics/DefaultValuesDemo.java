@@ -5,7 +5,7 @@ public class DefaultValuesDemo {
     static int num;
     static boolean flag;
     static double value;
-    static String text;
+    static String text; 
 
     public static void main(String[] args) {
         System.out.println("Default int: " + num);
