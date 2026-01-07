@@ -7,7 +7,7 @@ public class TypeCastingDemo {
         int a = 10;
         double b = a;
         System.out.println("Implicit casting: " + b);
-
+ 
         // Explicit casting (Narrowing)
         double x = 25.78;
         int y = (int) x;
