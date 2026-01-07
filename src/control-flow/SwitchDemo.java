@@ -1,5 +1,3 @@
-package Control_Statements;
-
 public class SwitchDemo {
     public static void main(String[] args) {
 
