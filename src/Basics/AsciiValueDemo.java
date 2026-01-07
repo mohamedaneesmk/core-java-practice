@@ -1,5 +1,3 @@
-package basics;
-
 public class AsciiValueDemo {
     public static void main(String[] args) {
 
