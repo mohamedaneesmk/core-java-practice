@@ -1,5 +1,3 @@
-package Control_Statements;
-
 public class IfDemo {
     public static void main(String[] args) {
 
